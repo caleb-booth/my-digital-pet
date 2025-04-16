@@ -2,6 +2,8 @@
 
 A simple virtual pet game built with SwiftUI. Keep your pet happy, fed, and energized!
 
+![Pet App Banner](appicon.png)
+
 ## 🧩 Features
 
 - 🌡️ Stats: Hunger, Happiness, Energy (0–10)
@@ -12,6 +14,8 @@ A simple virtual pet game built with SwiftUI. Keep your pet happy, fed, and ener
   - 😴 **Nap** – Increases Energy
 - 🖼️ Pixel-art background and pet sprite
 - ⛔ Basic game over logic can be added
+
+![Gameplay Screenshot](gameplay.png)
 
 ## 🚀 How to Run
 
